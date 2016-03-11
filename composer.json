@@ -1,0 +1,19 @@
+{
+  "name": "tdd/dojo",
+  "description": "Test Driven Development Dojo",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Robert Sebescen",
+      "email": "robert.sebescen@devtechgroup.com"
+    }
+  ],
+  "autoload": {
+    "psr-4":{
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "5.4.x-dev"
+  }
+}
