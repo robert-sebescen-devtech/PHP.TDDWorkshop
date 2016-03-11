@@ -1,5 +1,4 @@
 <?php
-use Helpers\StringCalculator;
 
 /**
  * Created by PhpStorm.
@@ -9,4 +8,5 @@ use Helpers\StringCalculator;
  */
 class StringCalculatorTests extends PHPUnit_Framework_TestCase
 {
+
 }
