@@ -8,5 +8,13 @@
  */
 class StringCalculatorTests extends PHPUnit_Framework_TestCase
 {
+    public function testAdd_GivenEmptyString_ShouldReturnZero()
+    {
+        // ARRANGE
 
+        // ACT
+
+        // ASSERT
+
+    }
 }
